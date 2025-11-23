@@ -16,7 +16,8 @@ To measure propagation loss & bending losses for two different wavelengths in pl
 
 - Losses are introduced in fiber due to various reasons. As light propagates from one end of Fiber to another end, part of it is absorbed in the material exhibiting absorption loss. Also part of the light is reflected back or in some other directions from the impurity particles present in the material contributing to the loss of the signal at the other end of the Fiber. In general terms it is know as propagation loss. Plastic Fibers have higher loss of the order of 180 dB/Km.
 Whenever the condition for angel of incidence of the incident lights is violated the losses are introduced due to refraction of light. This occurs when fiber is subjected to bending. Lower the radius of curvature more is the loss. Other losses are due to the coupling of Fiber at LED and photo detector ends.
-  
+  <img width="842" height="443" alt="image" src="https://github.com/user-attachments/assets/6ef20325-09bd-4452-8445-219130795e13" />
+
 
 **Procedure:**  
 - Connect the power supply with proper polarity to the kit link-B and switch it on.
